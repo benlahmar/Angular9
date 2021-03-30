@@ -372,16 +372,9 @@
         }
     ],
     "config":{
-    'allowBack': true,
-    'allowReview': true,
-    'autoMove': true,  
-    'duration': 20, 
-    'pageSize': 10,
-    'requiredAll': true,   
-    'richText': true,
-    'shuffleQuestions': true,
-    'shuffleOptions': true,
-    'showClock': true,
-    'showPager': true
+    "allowBack": true,
+    "allowReview": true,
+    "autoMove": true,  
+    "showPager": true
     }
 }
